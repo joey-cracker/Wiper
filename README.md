@@ -11,6 +11,7 @@ The command to install the executable is :
 With admin/root privileges, run:
 wipe -d <device file> -b <block_size>
 examples:
+
     The following are examples for wiping an entire drive.
     wipe -d /dev/sda -b 500K
     wipe -d /dev/nvme0n1 -b 4M
