@@ -1,6 +1,7 @@
 # Wiper
 Utility to wipe a hard disk / Flash Drive
 This Program builds only on a system with GNU make.
+It makes a standalone executable name wiper which can be run on a system without any other external dependencies.
 The command to build the executable is :
     make
 The command to install the executable is :
